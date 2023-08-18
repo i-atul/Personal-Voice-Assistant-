@@ -1,18 +1,13 @@
 # AI-Based Voice Personal Assistant  - Technial Project Expo 2022
 
+
 ![virtual-assistants (1)](https://github.com/yours-atulsingh/Personal-Voice-Assistant-/assets/142521860/ae0370be-271d-422c-b356-f87cfd598613)
-
-
-
 
 
 ## Introduction
 
 
-
 Hey there! I'm excited to present my project college projrct an [AI-Based Voice Personal Assistant](https://drive.google.com/file/d/1449dW-f9uV15Ez1-uA_64Lvr6FzCAsls/view) for the [Techinical Project Expo 2022 at NCET, Kanpur](https://www.narainagroup.ac.in/) . In this project, I've developed a cutting-edge voice-enabled personal assistant that utilizes artificial intelligence to perform a wide range of tasks, making life easier and more efficient.
-
-
 
 
 ## Functionalities of this project include
@@ -91,11 +86,15 @@ Hey there! I'm excited to present my project college projrct an [AI-Based Voice 
 - **gtts**: Python library and CLI tool to interface with Google Translates text-to-speech API.
   
 - **request**: It is used to request data from a server
+  
+---
 
+#[AI-Based Voice Personal Assistant Tutorial](https://drive.google.com/file/d/1449dW-f9uV15Ez1-uA_64Lvr6FzCAsls/view)
 
+---
 ## About the Developer
 
-I'm Atul Singh, a passionate and creative computer science student. I have a strong interest in artificial intelligence, natural language processing, and building innovative solutions to real-world problems. This project is the culmination of my dedication and hard work during the College.
+I'm Atul Singh, a passionate  data science enthusiast actively studying AI and ML methodologies. I have a strong interest in artificial intelligence, natural language processing, and building innovative solutions to real-world problems. This project is the culmination of my dedication and hard work during the College.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-atul-singh) to learn more about my journey and future projects.
 
